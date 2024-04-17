@@ -193,12 +193,16 @@ input:focus {
     display: flex;
     justify-content: center;
     align-items: center;
+    max-width: 100vh;
+    max-height: 100vh;
+
+
   }
 
   #register-container {
     justify-content: center;
-    max-width: 80vh;
-    height: auto;
+    max-width: 90%;
+    max-height: 90%;
     
   }
 
